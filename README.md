@@ -1,11 +1,10 @@
 # Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
-To start the slide show:
+运行项目需要：
+ 1. 安装Node.js
+ 2. 安装pnpm
+ 3. 项目根文件夹运行pnpm run dev
 
-- `npm install`
-- `npm run dev`
-- visit <http://localhost:3030>
+当前编辑 [slides.md](./slides.md) 即可更改PPT内容.
 
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
+Slidev 使用文档见官网 [documentation](https://sli.dev/).
