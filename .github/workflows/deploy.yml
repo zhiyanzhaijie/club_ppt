@@ -5,9 +5,6 @@ on:
   push:
     branches: [master]
 
-with:
-  token: ${{ secrets.GITHUB_TOKEN }}
-  enablement: true
 
 permissions:
   contents: read
