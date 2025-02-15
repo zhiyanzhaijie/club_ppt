@@ -239,6 +239,9 @@ dragPos:
 - [b站账号](https://space.bilibili.com/589409046) 
 - [俱乐部主站](https://ismist.cn/#s8)
 
+- 技术交流群
+<img  class="h-100 absolute left-1 top-30"  src="./assets/wx_group.jpg"></img>
+
 
 
 <PoweredBySlidev mt-10 />
