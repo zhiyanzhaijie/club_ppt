@@ -223,7 +223,7 @@ layout: two-cols
 layout: center
 class: text-center
 dragPos:
-  square: 355,312,46,48
+  square: 374,158,40,40
 ---
 
 # 了解更多
@@ -240,7 +240,7 @@ dragPos:
 - [俱乐部主站](https://ismist.cn/#s8)
 
 - 技术交流群
-<img  class="h-100 absolute left-1 top-30"  src="./assets/wx_group.jpg"></img>
+<img  class="h-100 absolute left-1 top-30"  src="./assets/wx_group_250406.png"></img>
 
 
 
