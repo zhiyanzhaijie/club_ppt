@@ -236,7 +236,7 @@ dragPos:
 
 
 - [青年之家1号店-青聚锦官城](https://cdyouth.cdcyl.org.cn/jgc/) 
-- [b站账号](https://space.bilibili.com/589409046) 
+- [b站账号](https://space.bilibili.com/3546977052657840) 
 - [俱乐部主站](https://ismist.cn/#s8)
 
 - 技术交流群
